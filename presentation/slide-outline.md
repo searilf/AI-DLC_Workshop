@@ -1,6 +1,6 @@
 # AI-DLC Workshop — Presentation v5
 
-**Format:** 3 hours · 51 editable slides · Open Sans · Emerald/cream theme
+**Format:** 3 hours · 51 editable slides · Open Sans · Emerald/cream theme · Visual Storyflow v6
 
 ## Agenda (180 minutes)
 | Segment | Minutes |
@@ -34,19 +34,24 @@
 19. Bolt / Mob / Gate
 20. AI-DLC Security: Code → Cloud → Runtime
 
-## Slides 21–30 — Scenario comparison (replaces Live Demo)
-**Representative enterprise scenario (illustrative, not an actual identified customer):** an IT Service Desk receives incidents through Chat and Email and wants to build an Incident Management application.
+## Slides 21–30 — Scenario comparison as a visual story (v6)
+**Illustrative case:** The IT Service Desk receives incidents through Chat and Email. The team builds one incident tracking MVP. No benchmarks or identifiable real customer are claimed.
 
-21. **One problem, two models** — shared situation, constraints and target MVP
-22. **Human-led SDLC workflow** — BA/PO → SA → Developer → QA/Operations, handoffs and artifacts
-23. **AI-DLC workflow** — Initialization → Ideation → Inception → Construction → Operation, AI workstreams and Human decisions
-24. **Requirements** — BA-authored vs AI-drafted user stories and acceptance criteria with PO approval
-25. **Architecture** — same UI → API → Data design, human vs AI-assisted proposals and boundaries
-26. **Implementation** — Tickets vs Units/Bolts, review and verification
-27. **Testing & Security** — five representative test scenarios and test ownership; no invented pass results
-28. **Change Request** — P1 incident cannot be resolved without Owner and Resolution Note; impact and regression
-29. **Release & Operation** — PR, CI/security scans, approvals, monitoring and responsibility
-30. **Comparison summary** — identical quality goals, different execution and oversight model; bridge into lab
+Slides are icon-led process scenes with actor → action → artifact and a seven-chapter progress strip, rather than side-by-side text tables:
+
+21. **Business problem** — Employee messages from Chat/Email → central incident board
+22. **Human-led SDLC** — PO/BA → Architect → Developer → QA/Ops; handoffs through Ticket Board / Design Docs / Git PR / CI
+23. **AI-DLC workflow** — PO sets intent → AI drafts spec → AI builds slices → tests; PO/SA/Developer/QA remain accountable; Team Workspace → Artifacts → Code Repo → Test Logs
+24. **Requirements** — business request branches into human-led interview vs AI-assisted clarification; PO signs off on common User Story and Acceptance Criteria
+25. **Architecture** — shared UI → API → Data design; SA owns architecture, AI can propose alternatives
+26. **Implementation** — tickets and PR vs Unit and Bolt; developer inspects real diffs
+27. **Testing** — Acceptance Criteria → executed test evidence; never mistake NOT RUN for PASS
+28. **Change** — P1 incident resolution requires Owner + Resolution Note; trace impact across UI/API/Data/Regression
+29. **Release & Operation** — PR → CI + Security → Approval → Operations; workshop is *local prototype only*
+30. **Takeaway** — identical quality bar; compare execution and accountability visually
+
+The story is also explained in the slide speaker notes. The example Change Request is *not* a hidden challenge in the hands-on lab. Text-heavy slides elsewhere in the core deck and lab section were also redesigned as editable PowerPoint icon workflows.
+
 
 ## Slides 31–40 — Team Challenge, Showcase and Wrap-up
 31. Hands-on Lab section cover
