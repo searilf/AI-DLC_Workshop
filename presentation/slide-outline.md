@@ -12,7 +12,7 @@ Slides are maintained as a PowerPoint artifact separately; this outline is the s
 4. AI-assisted Coding vs AI-DLC
 5. AI drives the work; Humans own the decisions
 6. Harness vs AI-DLC Orchestrator architecture (Kiro, Claude Code, Codex CLI)
-7. The 5 phases: Initialization → Ideation → Inception → Construction → Operation
+7. Core delivery flow (reference-style diagram): Inception → Construction → Operation, adaptive loops, and activities 1–9; Initialization and Ideation indicated as earlier phases
 8. Initialization and Ideation: preparing context and framing intent
 9. Inception: requirements, acceptance criteria, design and delivery plan
 10. Construction: units, delivery slices, code and executed tests
