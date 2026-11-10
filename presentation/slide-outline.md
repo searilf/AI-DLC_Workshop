@@ -8,7 +8,7 @@ Slides are maintained as a PowerPoint artifact separately; this outline is the s
 
 1. AI-Driven Development Lifecycle — introduction
 2. 3-hour workshop journey
-3. Why faster AI coding does not automatically mean successful software delivery
+3. AI Coding in three visual modes — Autocomplete, Chat-assisted Coding, and Coding Agent (icon-based workflow)
 4. AI-assisted Coding vs AI-DLC
 5. AI drives the work; Humans own the decisions
 6. Harness vs AI-DLC Orchestrator architecture (Kiro, Claude Code, Codex CLI)
