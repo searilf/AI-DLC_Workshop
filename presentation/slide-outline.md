@@ -1,6 +1,6 @@
 # AI-DLC Workshop — Presentation v5
 
-**Format:** 3 hours · 51 editable slides · Open Sans · Emerald/cream theme · Visual Storyflow v6
+**Format:** 3 hours · 54 editable slides · Open Sans · Emerald/cream theme · Visual Storyflow v6
 
 ## Agenda (180 minutes)
 | Segment | Minutes |
@@ -53,20 +53,27 @@ Slides are icon-led process scenes with actor → action → artifact and a seve
 The story is also explained in the slide speaker notes. The example Change Request is *not* a hidden challenge in the hands-on lab. Text-heavy slides elsewhere in the core deck and lab section were also redesigned as editable PowerPoint icon workflows.
 
 
-## Slides 31–40 — Team Challenge, Showcase and Wrap-up
-31. Hands-on Lab section cover
-32. IT Incident Management mission
-33. Roles: PO, SA, Developer, QA/DevOps
-34. GitHub Workshop Guide
-35. Hands-on six steps / 70 minutes
-36. Steps 01–03
-37. Steps 04–06
-38. Validation and Test Evidence
-39. Team Showcase
-40. Summary
+## Slides 31–33 — BA → Developer Handover (New v7)
+31. **One Intent, Two People, One Git History** — BA/PO finishes requirements and parks; reviewed PR transmits AI-DLC records; SA/Developer pulls, selects intent and resumes
+32. **Folder architecture** — shared application code, tests, AI-DLC state/artifacts/audit, team decisions & handover docs; secrets and active-intent cursor stay local
+33. **Handover procedure** — Park → Git commit/push → PR review/merge → Pull → Select Intent → Resume (Codex uses $aidlc)
 
-## Slides 41–51 — Interactive Scope Matrix Appendix
-Clickable detail slides for enterprise (41), feature (42), mvp (43), poc (44), bugfix (45), refactor (46), infra (47), security-patch (48), classic (49), workshop (50), express (51).
+Full practical instructions: [collaboration/](../collaboration/README.md). This is a collaboration teaching extension, not an additional mandatory 70-minute challenge.
+
+## Slides 34–43 — Team Challenge, Showcase and Wrap-up
+34. Hands-on Lab section cover
+35. IT Incident Management mission
+36. Roles: PO, SA, Developer, QA/DevOps
+37. GitHub Workshop Guide
+38. Hands-on six steps / 70 minutes
+39. Steps 01–03
+40. Steps 04–06
+41. Validation and Test Evidence
+42. Team Showcase
+43. Summary
+
+## Slides 44–54 — Interactive Scope Matrix Appendix
+Clickable detail slides for enterprise (44), feature (45), mvp (46), poc (47), bugfix (48), refactor (49), infra (50), security-patch (51), classic (52), workshop (53), express (54).
 
 Open in **PowerPoint Slide Show** mode and click a scope card on slide 13; Back to Matrix returns to slide 13. The matrix is based on stock-scope Stage membership; conditional stages may be skipped at runtime. MVP has 23 / 33 stages included in its stock plan.
 
