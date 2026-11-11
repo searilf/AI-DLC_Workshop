@@ -11,7 +11,7 @@
 1. **ก่อนวัน Workshop:** [Prerequisites](prerequisites.md) และ [Harness References](references/README.md)
 2. **รับโจทย์:** [Mission](mission.md) และ [Success Criteria](success-criteria.md)
 3. **ทำตาม Step:** [01 Setup](steps/01-environment-setup.md) → [02 Understand](steps/02-problem-understanding.md) → [03 Design](steps/03-requirements-design.md) → [04 Build](steps/04-implementation.md) → [05 Validate](steps/05-testing-validation.md) → [06 Wrap-up](steps/06-review-wrapup.md)
-4. **สรุป:** [Checklist](submission/checklist.md) และ [Team Summary](templates/team-summary.md)
+4. **ส่งงานข้ามทีม:** [BA → Developer Handover](collaboration/README.md) — Folder Structure, Park/Resume, Git Commands และ PR Review (หัวข้อเสริม ไม่ใช่ Challenge ใหม่)\n5. **สรุป:** [Checklist](submission/checklist.md) และ [Team Summary](templates/team-summary.md)
 
 ## กำหนดเวลา
 | Step | เวลา | ผลลัพธ์ |
